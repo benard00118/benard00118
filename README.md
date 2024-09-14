@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-Web development`<br>`exploits`<br>`c#`<br>`dart and flutter`<br>`database`<br>`Python
+Web development
+exploits
+c# 
+dart and flutter
+database
+Python
 
 ## 🌐 Socials:
 
