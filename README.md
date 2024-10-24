@@ -17,8 +17,8 @@ Python
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=benard00118&theme=dark&hide_border=false&include_all_commits=true&count_private=true)`
-![](https://github-readme-streak-stats.herokuapp.com/?user=benard00118&theme=dark&hide_border=false)`
+![](https://github-readme-stats.vercel.app/api?username=benard00118&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=benard00118&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benard00118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
